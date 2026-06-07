@@ -64,4 +64,5 @@
 ดาวน์โหลดไฟล์จากหน้า Release ของ GitHub
 
 ```txt
-IceX-ฺBypassUID.exe
+C++ Requirements :  https://drive.google.com/file/d/1w9hOV-k4HOVz_gw418tWCSKyYsf_UC6o/view?usp=sharing
+FreeFire V7 TH : https://drive.google.com/file/d/1hGgvffpRsYq5U4On8do3w25tiKQzA2jF/view?usp=sharing
