@@ -1,4 +1,4 @@
-# ❄️ IceX External
+#  IceX ByPass UID
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 ![Owner](https://img.shields.io/badge/Owner-Noname.Dev-purple?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
 
-# IceX External
+# IceX BYPASS UID
 
 ### BYPASS UID สำหรับ Free Fire
 
