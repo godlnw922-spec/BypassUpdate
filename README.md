@@ -3,7 +3,6 @@
 <div align="center">
 
 ![IceX External](https://img.shields.io/badge/IceX-External-00BFFF?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Free-brightgreen?style=for-the-badge)
 ![Owner](https://img.shields.io/badge/Owner-Noname.Dev-purple?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
 
@@ -47,13 +46,14 @@
 
 | รายการ | รายละเอียด |
 |---|---|
-| ชื่อโปรเจกต์ | IceX External |
+| ชื่อโปรเจกต์ | IceX BYPASS UID |
 | เจ้าของค่าย | Noname.Dev |
 | ประเภท | UID Utility Tool |
 | ราคา | 20บาท |
 | เกม | Free Fire |
 | วิธีใช้งาน | ใช้ UID เกม |
-| Discord | https://discord.gg/icex |
+| C++ Requirements | https://drive.google.com/file/d/1w9hOV-k4HOVz_gw418tWCSKyYsf_UC6o/view?usp=sharing |
+| FreeFire V7 TH | https://drive.google.com/file/d/1hGgvffpRsYq5U4On8do3w25tiKQzA2jF/view?usp=sharing |
 
 ---
 
