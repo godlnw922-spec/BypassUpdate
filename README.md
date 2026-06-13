@@ -53,7 +53,7 @@
 | เกม | Free Fire |
 | วิธีใช้งาน | ใช้ UID เกม |
 | C++ Requirements | https://drive.google.com/file/d/1w9hOV-k4HOVz_gw418tWCSKyYsf_UC6o/view?usp=sharing |
-| FreeFire V7 TH | https://drive.google.com/file/d/1hGgvffpRsYq5U4On8do3w25tiKQzA2jF/view?usp=sharing |
+| FreeFire V7 TH | https://drive.google.com/file/d/1xL_K65TTpxdS78CMLDQNr7j6GCILfoHE/view?usp=sharing |
 
 ---
 
@@ -65,4 +65,4 @@
 
 ```txt
 C++ Requirements :  https://drive.google.com/file/d/1w9hOV-k4HOVz_gw418tWCSKyYsf_UC6o/view?usp=sharing
-FreeFire V7 TH : https://drive.google.com/file/d/1hGgvffpRsYq5U4On8do3w25tiKQzA2jF/view?usp=sharing
+FreeFire V7 TH : https://drive.google.com/file/d/1xL_K65TTpxdS78CMLDQNr7j6GCILfoHE/view?usp=sharing
